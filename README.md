@@ -11,3 +11,4 @@ El sniffer solo esta disponible para sistemas operativos de GNU/LINUX
 Para ejecutar el programa es necesario estar como super usuario, por ende se recomienda entrar con sudo
 
 sudo python3 Sniffer.py
+
